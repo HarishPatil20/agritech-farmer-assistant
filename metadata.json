@@ -1,0 +1,5 @@
+{
+  "name": "AgriTech Farmer Assistant",
+  "description": "A web-based Leaf Disease Detection & Farmer Assistant platform with multilingual AI chatbot, live market prices, and weather.",
+  "requestFramePermissions": []
+}
