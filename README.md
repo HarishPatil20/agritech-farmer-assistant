@@ -1,4 +1,4 @@
-🌾 #AgriTech Farmer Assistant
+#AgriTech Farmer Assistant
 
 An AI-powered Farmer Assistant Web Application designed to help farmers with crop disease detection, AI farming guidance, and live crop insights.
 The platform uses Artificial Intelligence and modern web technologies to support farmers in making better agricultural decisions.
