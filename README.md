@@ -1,128 +1,115 @@
-#AgriTech Farmer Assistant
+# 🌾 AgriTech Farmer Assistant
 
-An AI-powered Farmer Assistant Web Application designed to help farmers with crop disease detection, AI farming guidance, and live crop insights.
+An AI-powered Farmer Assistant Web Application designed to help farmers with crop disease detection, AI farming guidance, and live crop insights.  
 The platform uses Artificial Intelligence and modern web technologies to support farmers in making better agricultural decisions.
 
-🔗 Live Demo:
+## 🔗 Live Demo
 https://agritech-farmer-assistant.vercel.app/
 
-🚀 Features
-🤖 AI Farming Chatbot
+---
 
-Powered by Google Gemini AI
+## 🚀 Features
+
+### 🤖 AI Farming Chatbot
+
+Powered by **Google Gemini AI**
 
 Farmers can ask questions about:
 
-Crop cultivation
+- Crop cultivation
+- Pest control
+- Fertilizers
+- Weather advice
+- Farming techniques
 
-Pest control
+Supports **multiple languages**.
 
-Fertilizers
+---
 
-Weather advice
-
-Farming techniques
-
-Supports multiple languages.
-
-🌿 Crop Disease Detection
+### 🌿 Crop Disease Detection
 
 Farmers can detect plant diseases using AI.
 
-Two ways to use it:
+#### 1️⃣ Upload Plant Image
 
-1️⃣ Upload Plant Image
+- Upload a photo of a plant leaf  
+- AI analyzes the image  
+- Predicts possible diseases
 
-Upload a photo of a plant leaf
+#### 2️⃣ Capture Image from Field
 
-AI analyzes the image and predicts possible diseases.
+- Use device camera  
+- Capture real-time plant image  
+- AI provides disease prediction
 
-2️⃣ Capture Image from Field
+---
 
-Use device camera
-
-Capture real-time plant image
-
-AI provides disease prediction.
-
-🌍 Multi-Language Support
+### 🌍 Multi-Language Support
 
 Farmers can interact with the chatbot in different languages like:
 
-English
-
-Kannada
-
-Hindi
-
-Tamil
-
-Telugu
-
-Malayalam
+- English
+- Kannada
+- Hindi
+- Tamil
+- Telugu
+- Malayalam
 
 This makes the system accessible for farmers across India.
 
-📊 Farmer Dashboard
+---
+
+### 📊 Farmer Dashboard
 
 A modern dashboard that allows farmers to access:
 
-AI chatbot
-
-Disease detection
-
-Market insights
-
-Farm information
+- AI chatbot
+- Disease detection
+- Market insights
+- Farm information
 
 All features are integrated in one place.
 
-🔐 Authentication System
+---
+
+### 🔐 Authentication System
 
 The application includes:
 
-User Registration
+- User Registration
+- User Login
+- Secure access to dashboard features
 
-User Login
+---
 
-Secure access to dashboard features
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-Frontend
+### Frontend
+- React
+- Vite
+- TypeScript
+- Tailwind CSS
+- React Router
 
-React
+### AI Integration
+- Google Gemini API
 
-Vite
+### Backend / Server
+- Node.js
+- Express
 
-TypeScript
+### Other Tools
+- Lucide Icons
+- Recharts
+- React Markdown
 
-Tailwind CSS
+### Deployment
+- Vercel
 
-React Router
+---
 
-AI Integration
+## 📂 Project Structure
 
-Google Gemini API
-
-Backend / Server
-
-Node.js
-
-Express
-
-Other Tools
-
-Lucide Icons
-
-Recharts
-
-React Markdown
-
-Deployment
-
-Vercel
-
-📂 Project Structure
 src
  ├── components
  │   ├── layout
