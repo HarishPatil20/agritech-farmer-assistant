@@ -111,27 +111,31 @@ The application includes:
 ## 📂 Project Structure
 
 src
- ├── components
- │   ├── layout
- │   └── ui
- ├── pages
- │   ├── Dashboard
- │   ├── Chatbot
- │   ├── DiseaseDetection
- │   ├── Market
- │   ├── Login
- │   └── Register
- ├── services
- │   └── geminiService.ts
- ├── App.tsx
- └── main.tsx
+├── components
+│ ├── layout
+│ └── ui
+├── pages
+│ ├── Dashboard
+│ ├── Chatbot
+│ ├── DiseaseDetection
+│ ├── Market
+│ ├── Login
+│ └── Register
+├── services
+│ └── geminiService.ts
+├── App.tsx
+└── main.tsx
 
- ⚙️ Installation
 
-Clone the repository
+---
 
+## ⚙️ Installation
+
+### Clone the repository
+
+```bash
 git clone https://github.com/your-username/agritech-farmer-assistant.git
-
+---
 Go to the project folder
 
 cd agritech-farmer-assistant
@@ -143,6 +147,7 @@ npm install
 Run the project
 
 npm run dev
+
 🔑 Environment Variables
 
 Create a .env file in the root directory.
@@ -150,6 +155,7 @@ Create a .env file in the root directory.
 Example:
 
 GEMINI_API_KEY=your_api_key_here
+---
 🌐 Deployment
 
 This project is deployed using Vercel.
@@ -163,7 +169,7 @@ Import repository in Vercel
 Add environment variables
 
 Deploy
-
+---
 📸 Application Modules
 
 AI Farmer Chatbot
@@ -177,7 +183,7 @@ Camera Capture Detection
 Multi-Language Support
 
 Farmer Dashboard
-
+---
 🎯 Future Improvements
 
 Weather forecasting for farms
@@ -189,9 +195,7 @@ Soil health analysis
 Mobile application version
 
 Voice-based AI assistant for farmers
-
+---
 👨‍💻 Author
 
 Harish Patil
-
-Engineering Student | AI & Web Development Enthusiast
